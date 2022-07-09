@@ -1,0 +1,30 @@
+body{
+  background-color: #1A4D2E;
+}
+hr{
+  background-color: white;
+  border-style: none;
+  height: 2px;
+  width: 100%;
+}
+img{
+  height: 300px;
+}
+h1{
+  color: White;
+}
+h3{
+  color: white;
+}
+p{
+  color: White;
+}
+ul{
+  color: white;
+}
+ol{
+  color: white;
+}
+a{
+  color: red;
+}
